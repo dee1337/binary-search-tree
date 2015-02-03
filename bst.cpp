@@ -182,7 +182,7 @@ Node* RemoveNode(Node* root, Node* node){
 		node->value = 0;
 		delete node;
 	}
-	// case 2: not implemented :/
+	// case 2: todo :)
 	cout << "RemoveNode not (completely) implemented yet" << endl;
 	return root;
 }
